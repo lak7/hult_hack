@@ -8,9 +8,8 @@ const Possibility = () => (
       <img src={possibilityImage} alt="possibility" />
     </div>
     <div className="gpt3__possibility-content">
-      <h1 className="gradient__text">The possibilities are <br /> beyond your imagination</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
-      <h4>Request Early Access to Get Started</h4>
+      <h1 className="gradient__text">Like dragons, soar beyond the ordinary, unleash your imagination and behold the boundless horizons.</h1>
+      <p>Enter a realm where the possibilities are beyond your wildest imagination. In our vibrant community, every corner holds the promise of discovery and growth. From connecting with diverse societies to exploring countless events, the journey ahead is limited only by the scope of your creativity. Embrace the boundless opportunities that await, and let your aspirations soar higher than ever before.</p>
     </div>
   </div>
 );

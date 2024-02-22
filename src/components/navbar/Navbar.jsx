@@ -14,7 +14,7 @@ const Navbar = () => {
         </div>
         <div className="gpt3__navbar-links_container">
           <p><a href="#home">Home</a></p>
-          <p><a href="#blog">Societies</a></p>
+          <p><a href="https://www.instagram.com/gdscbvp/" target="_blank" rel="noopener noreferrer">Browse Societies</a></p>
         </div>
       </div>
       <div className="gpt3__navbar-sign">
