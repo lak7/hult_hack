@@ -4,28 +4,28 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: 'Society Profiles',
+    text: 'Explore the vibrant tapestry of college life through dedicated society profiles. Each society showcases its unique mission, dynamic members, upcoming events, and memorable past activities.',
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: 'Event Calendar',
+    text: 'Seamlessly plan your college journey with our centralized event calendar. Stay updated on upcoming events hosted by various societies, ensuring you never miss out on exciting opportunities. From workshops to social gatherings, find your niche and participate with ease.',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'Student Profiles',
+    text: 'Elevate your college experience with personalized student profiles. Keep track of your extracurricular activities, achievements, and society engagements throughout your academic journey.',
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: 'Sponsorship Opportunities',
+    text: 'Forge meaningful connections between sponsors and student societies through transparent collaboration. Our platform empowers sponsors to connect with active and engaged societies, allowing them to choose the best fit for their advertisements.',
   },
 ];
 
 const Features = () => (
   <div className="gpt3__features section__padding" id="features">
     <div className="gpt3__features-heading">
-      <h1 className="gradient__text">The Future is Now and You Just Need to Realize It. Step into Future Today. & Make it Happen.</h1>
-      <p>Request Early Access to Get Started</p>
+      <h1 className="gradient__text">From Campus to Community, Building Bridges of Opportunity</h1>
+      <p>Join Us Now!</p>
     </div>
     <div className="gpt3__features-container">
       {featuresData.map((item, index) => (
